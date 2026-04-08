@@ -6,6 +6,13 @@
 
 ---
 
+## Preview
+
+![Screenshot 1](assets/images/SS/Screenshot%202026-04-08%20204050.png)
+![Screenshot 2](assets/images/SS/Screenshot%202026-04-08%20204206.png)
+
+---
+
 ## Features
 
 - 300-frame image sequence animation driven by scroll
